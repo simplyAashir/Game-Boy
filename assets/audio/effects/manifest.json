@@ -1,0 +1,164 @@
+[
+  {
+    "cue": 0,
+    "source": "click_001.ogg",
+    "pack": "Kenney Interface Sounds",
+    "trim_seconds": 0.09
+  },
+  {
+    "cue": 1,
+    "source": "item_gem_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.8
+  },
+  {
+    "cue": 2,
+    "source": "wood_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.3
+  },
+  {
+    "cue": 3,
+    "source": "item_gem_02.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.65
+  },
+  {
+    "cue": 4,
+    "source": "tin-whistle-whoosh-01.wav",
+    "pack": "Tinysized SFX",
+    "trim_seconds": 0.5
+  },
+  {
+    "cue": 5,
+    "source": "book_02.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.7
+  },
+  {
+    "cue": 6,
+    "source": "bong_001.ogg",
+    "pack": "Kenney Interface Sounds",
+    "trim_seconds": 0.45
+  },
+  {
+    "cue": 7,
+    "source": "item_gem_03.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.7
+  },
+  {
+    "cue": 8,
+    "source": "item_coins_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.7
+  },
+  {
+    "cue": 9,
+    "source": "spell_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 1.4
+  },
+  {
+    "cue": 10,
+    "source": "spell_02.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 1.2
+  },
+  {
+    "cue": 11,
+    "source": "item_gem_04.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.7
+  },
+  {
+    "cue": 12,
+    "source": "item_coins_04.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.8
+  },
+  {
+    "cue": 13,
+    "source": "wood_04.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.4
+  },
+  {
+    "cue": 14,
+    "source": "wood-bowl-spoon-01.wav",
+    "pack": "Tinysized SFX",
+    "trim_seconds": 0.09
+  },
+  {
+    "cue": 15,
+    "source": "wood-bowl-spoon-02.wav",
+    "pack": "Tinysized SFX",
+    "trim_seconds": 0.09
+  },
+  {
+    "cue": 16,
+    "source": "book_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.4
+  },
+  {
+    "cue": 17,
+    "source": "item_gem_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.3
+  },
+  {
+    "cue": 18,
+    "source": "chimes-wood-rattle.wav",
+    "pack": "Tinysized SFX",
+    "trim_seconds": 0.3
+  },
+  {
+    "cue": 19,
+    "source": "item_stone_01.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.13
+  },
+  {
+    "cue": 20,
+    "source": "item_gem_03.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.55
+  },
+  {
+    "cue": 21,
+    "source": "floor-creak-01.wav",
+    "pack": "Tinysized SFX",
+    "trim_seconds": 0.65
+  },
+  {
+    "cue": 22,
+    "source": "click_001.ogg",
+    "pack": "Kenney Interface Sounds",
+    "trim_seconds": 0.08
+  },
+  {
+    "cue": 23,
+    "source": "book-page-01.wav",
+    "pack": "Tinysized SFX",
+    "trim_seconds": 0.6
+  },
+  {
+    "cue": 24,
+    "source": "bong_001.ogg",
+    "pack": "Kenney Interface Sounds",
+    "trim_seconds": 0.6
+  },
+  {
+    "cue": 25,
+    "source": "wood_02.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.55
+  },
+  {
+    "cue": 26,
+    "source": "wood_03.ogg",
+    "pack": "80 CC0 RPG SFX",
+    "trim_seconds": 0.55
+  }
+]
